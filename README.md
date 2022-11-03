@@ -4,15 +4,20 @@ This project is OTT apps using tvamaze API
 
 ## Available Scripts
 
+
+Install nv-cmd node program for executing commands using an environment from an env file.
+
+### `npm install env-cmd` 
+ 
 In the project directory, you can run:
 
-### `npm start:tata` 
+### `npm run start:tata` 
 
 for TATA  OTT app
 
 In the project directory, you can run:
 
-### `npm start:airtel` 
+### `npm run start:airtel` 
 
 for Airtel  OTT app
 
